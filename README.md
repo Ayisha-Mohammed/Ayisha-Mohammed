@@ -38,12 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayisha&layout=compact&theme=tokyonight" />
 </p>
 
----
-
----
-
 ### 🤝 Let's Collaborate
-<p></p>
+<p>
  👯 I’m looking to collaborate on **open-source projects**, especially in:
  🧠 NLP & Chatbots
  🌐 Web Engineering
