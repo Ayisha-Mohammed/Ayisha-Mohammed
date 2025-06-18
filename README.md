@@ -43,17 +43,17 @@
 ---
 
 ### 🤝 Let's Collaborate
-
-- 👯 I’m looking to collaborate on **open-source projects**, especially in:
-  - 🧠 NLP & Chatbots
-  - 🌐 Web Engineering
-  - 📊 Python-based Data Analysis
+<p></p>
+ 👯 I’m looking to collaborate on **open-source projects**, especially in:
+ 🧠 NLP & Chatbots
+ 🌐 Web Engineering
+ 📊 Python-based Data Analysis
 
 -  I’m looking for help with:
   - Learning **React.js** for frontend projects
   - Integrating **NLP models into real-world apps**
   - Getting better at **backend APIs** and **deployment**
-
+</p>
 ---
 
 
