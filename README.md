@@ -3,7 +3,7 @@
 <p align="center">
   👩‍🏫 Tutor @ Beyond Books Clan<br>
   💻 Learning Web Engineering, NLP Chatbots & Data Analysis <br>
-  🚀 Building one project at a time | Documenting my journey
+  🚀 Building one project at a time 
 </p>
 
 ---
@@ -20,13 +20,13 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
+### 🛠️ What I'm Currently Learning
 
-### 🚧 Current Focus
-- 📚 Mastering Web Engineering basics
-- 🤖 Building NLP-based Chatbots
+- 🤖 Natural Language Processing. Building NLP-based Chatbots
+- 🌐 Web Engineering 
 - 📊 Developing projects using Python for Data Analysis
 
-
+I document what I learn through mini-projects and repositories on this profile.
 
 ### 🤝 Let's Collaborate
 <p>
@@ -35,12 +35,12 @@
  🌐 Web Engineering
  📊 Python-based Data Analysis
 
--  I’m looking for help with:
+  - I’m looking for help with:
   - Learning **React.js** for frontend projects
   - Integrating **NLP models into real-world apps**
   - Getting better at **backend APIs** and **deployment**
 </p>
----
+
 
 
 
