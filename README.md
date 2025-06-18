@@ -25,18 +25,8 @@
 - 📚 Mastering Web Engineering basics
 - 🤖 Building NLP-based Chatbots
 - 📊 Developing projects using Python for Data Analysis
-- 👩‍🏫 Teaching Class 10 & 12 students online
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayisha&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayisha&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayisha&layout=compact&theme=tokyonight" />
-</p>
 
 ### 🤝 Let's Collaborate
 <p>
