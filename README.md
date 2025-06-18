@@ -1,16 +1,65 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**Ayisha-Mohammed/Ayisha-Mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👩‍🏫 Tutor @ Beyond Books Clan<br>
+  💻 Learning Web Engineering, NLP Chatbots & Data Analysis <br>
+  🚀 Building one project at a time | Documenting my journey
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+---
+
+### 🚧 Current Focus
+- 📚 Mastering Web Engineering basics
+- 🤖 Building NLP-based Chatbots
+- 📊 Developing projects using Python for Data Analysis
+- 👩‍🏫 Teaching Class 10 & 12 students online
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayisha&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayisha&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayisha&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+---
+
+### 🤝 Let's Collaborate
+
+- 👯 I’m looking to collaborate on **open-source projects**, especially in:
+  - 🧠 NLP & Chatbots
+  - 🌐 Web Engineering
+  - 📊 Python-based Data Analysis
+
+-  I’m looking for help with:
+  - Learning **React.js** for frontend projects
+  - Integrating **NLP models into real-world apps**
+  - Getting better at **backend APIs** and **deployment**
+
+---
+
+
+
+
+
+
+
+
