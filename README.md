@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/Zf4x9ev.png" alt="banner" width="100%" />
-</p>
 
 
 <p align="center">
@@ -9,13 +6,17 @@
 
 <br>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (2 on top, 1 below) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayisha-Mohammed&show_icons=true&theme=radical&include_all_commits=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=Ayisha-Mohammed&theme=radical" height="180"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayisha-Mohammed&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayisha-Mohammed&show_icons=true&theme=radical&include_all_commits=true" width="47%" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Ayisha-Mohammed&theme=radical" width="47%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayisha-Mohammed&layout=compact&theme=radical" width="36%" />
+</p>
+
 
 
 
