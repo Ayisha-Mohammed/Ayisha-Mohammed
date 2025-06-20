@@ -8,14 +8,19 @@
 
 <!-- GitHub Stats (2 on top, 1 below) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayisha-Mohammed&show_icons=true&theme=radical&include_all_commits=true" width="420" height="200" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Ayisha-Mohammed&theme=radical" width="420" height="200" />
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ayisha-Mohammed&show_icons=true&theme=radical&include_all_commits=true" width="420"/>
+  </span>
+  <span>&nbsp;&nbsp;</span>
+  <span>
+    <img src="https://streak-stats.demolab.com?user=Ayisha-Mohammed&theme=radical" width="420"/>
+  </span>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayisha-Mohammed&layout=compact&theme=radical" width="300" />
-</p> 
+</p>
+ 
 
 
 
