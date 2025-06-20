@@ -8,14 +8,14 @@
 
 <!-- GitHub Stats (2 on top, 1 below) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayisha-Mohammed&show_icons=true&theme=radical&include_all_commits=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayisha-Mohammed&show_icons=true&theme=radical&include_all_commits=true" width="420" height="200" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Ayisha-Mohammed&theme=radical" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=Ayisha-Mohammed&theme=radical" width="420" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayisha-Mohammed&layout=compact&theme=radical" width="36%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayisha-Mohammed&layout=compact&theme=radical" width="300" />
+</p> 
 
 
 
@@ -34,6 +34,7 @@
   <img src="https://img.icons8.com/color/96/javascript--v1.png" title="JavaScript" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/96/mysql-logo.png" title="MySQL" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/96/git.png" title="Git" style="margin: 10px;"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" title="VS Code"/>
 </p>
 
 <br>
